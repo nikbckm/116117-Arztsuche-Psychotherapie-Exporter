@@ -15,6 +15,10 @@ Ein einfacher 116117 Psychotherapie Suche Exporter zur Unterstützung bei der Su
   </a>
 </p>
 
+## ⚡ Update (Oktober 2025):
+Nach direktem Austausch mit dem offiziellen Entwicklungsteam der 116117-App wurde bestätigt, dass das vorgeschlagenes Feature in den offiziellen Entwicklungszyklus aufgenommen wird. 🎉
+Die Weiterentwicklung dieser App ist damit eingestellt, da die Funktion künftig direkt in der offiziellen 116117-Arztsuche integriert wird.
+Ein genauer Zeitplan wurde von 116117 nicht kommuniziert.
 
 
 ## Hintergrund
