@@ -15,6 +15,9 @@ Ein einfacher 116117 Psychotherapie Suche Exporter zur Unterstützung bei der Su
   </a>
 </p>
 
+## ⚡ Update (Dezember 2025 - 116117 blockt API calls):
+Der (inoffizielle) Endpoint https://arztsuche.116117.de/api/data erfordert inzwischen eine gültige Browser-Session (u.a. JSESSIONID + Cookies). Direkte Python-Requests liefern daher HTTP 500 (leer). Ein automatisches „Nachbauen“ der Browser-Session zur weiteren API-Nutzung ist mir rechtlich zu heikel. Da das offizielle Entwicklungsteam an einem ähnlichen offiziellen Feature arbeitet, werde ich diese App nicht weiterentwickeln.
+
 ## ⚡ Update (Oktober 2025):
 Nach direktem Austausch mit dem offiziellen Entwicklungsteam der 116117-App wurde bestätigt, dass das vorgeschlagenes Feature in den offiziellen Entwicklungszyklus aufgenommen wird. 🎉
 Die Weiterentwicklung dieser App ist damit eingestellt, da die Funktion künftig direkt in der offiziellen 116117-Arztsuche integriert wird.
